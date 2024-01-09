@@ -67,6 +67,7 @@
   "dependencies": {
     "@ethereumjs/rlp": "^5.0.1",
     "@hyperoracle/zkwasm-service-helper": "1.0.1",
+    "@hyperoracle/zkwasm-toolchain": "0.0.1",
     "@murongg/utils": "^0.1.18",
     "assemblyscript": "^0.27.22",
     "axios": "^1.6.2",
